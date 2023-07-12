@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukhmani Kaur</h1>
 <h3 align="center">A passionate software engineer</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://gifer.com/embed/JXA0" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p> ">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://i.gifer.com/JXA0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaur-sukhmani&label=Profile%20views&color=0e75b6&style=flat" alt="kaur-sukhmani" /> </p>
 
