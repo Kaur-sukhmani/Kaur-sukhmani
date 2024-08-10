@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer</h3>
 
 <!-- Replace the GIF URL below with the URL of the new image/GIF you find -->
-<img align="right" alt="Coding" width="400" src="NEW_IMAGE_URL_HERE">
+<img align="right" alt="Coding" width="400" src="[NEW_IMAGE_URL_HERE](https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9)">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kaur-sukhmani&label=Profile%20views&color=0e75b6&style=flat" alt="kaur-sukhmani" />
