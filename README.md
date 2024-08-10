@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sukhmani Kaur</h1>
 <h3 align="center">A passionate software engineer</h3>
-
-<!-- Replace the GIF URL below with the URL of the new image/GIF you find -->
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kaur-sukhmani&label=Profile%20views&color=0e75b6&style=flat" alt="kaur-sukhmani" />
 </p>
 
-<!-- The rest of your content remains the same -->
 <p align="left">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
@@ -66,13 +63,4 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaur-sukhmani&show_icons=true&locale=en&layout=compact" alt="kaur-sukhmani" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaur-sukhmani&show_icons=true&locale=en" alt="kaur-sukhmani" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaur-sukhmani&" alt="kaur-sukhmani" />
-</p>
+  <img align="left" src="https://github
